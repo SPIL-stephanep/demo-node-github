@@ -1,0 +1,24 @@
+{
+  "name": "demo-node-github",
+  "preferGlobal": "false",
+  "version": "0.1.0",
+  "author": "Stephane P. Pericat <stephane.pericat@spilgames.com>",
+  "description": "Demo on how to use node-github npm module",
+  "main": "./demo.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SPIL-stephanep/demo-node-github.git"
+  },
+  "keywords": [
+    "github",
+    "demo"
+  ],
+  "dependencies" : {
+    "github": "0.1.6"
+  },
+  "analyze": false,
+  "license": "2012, Spilgames",
+  "engines": {
+    "node": ">=0.8"
+  }
+}
